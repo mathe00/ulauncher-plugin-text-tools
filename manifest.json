@@ -1,0 +1,19 @@
+{
+  "required_api_version": "^2.0.0",
+  "name": "Text Tools",
+  "description": "Transforms the entered text into various formats",
+  "developer_name": "Your Name",
+  "icon": "images/icon.png",
+  "options": {
+    "query_debounce": 0.1
+  },
+  "preferences": [
+    {
+      "id": "keyword",
+      "type": "keyword",
+      "name": "Activation Keyword",
+      "description": "The keyword to activate the extension",
+      "default_value": "tt"
+    }
+  ]
+}
