@@ -4,6 +4,9 @@
 
 This extension allows you to quickly transform input text into various formats directly from **[Ulauncher](https://ulauncher.io)**. Whether you need to change the case, reverse text, or apply a specific format like snake_case or kebab-case, this extension does it all instantly! 🚀
 
+![screenshot](https://github.com/user-attachments/assets/29e6d6ff-49bc-48aa-a5bb-2a6c2de61f84)
+
+
 ## 🚀 Available Features
 
 - 🔡 **Text transformation on the fly**: Convert text into various formats such as uppercase, lowercase, title case, camelCase, snake_case, and more.
